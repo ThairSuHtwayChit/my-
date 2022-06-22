@@ -1,3 +1,3 @@
 <?php
-require "index.html";
+require "Project3/index.html";
 ?>
